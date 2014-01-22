@@ -23,7 +23,7 @@ typedef pcl::Normal NormalType;
 typedef pcl::ReferenceFrame RFType;
 typedef pcl::SHOT352 DescriptorType;
 typedef pcl::PointCloud<pcl::PointXYZ>::Ptr CloudPtr;
-
+//prueba github 1.02
 std::string model_filename_;
 std::string scene_filename_;
 
